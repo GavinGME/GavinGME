@@ -1,16 +1,13 @@
-## Hi there 👋
+# GavinGME
 
-<!--
-**GavinGME/GavinGME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current activity
+Preparing a hands-on GitHub workshop for the University of Montana Cybersecurity Collective.
 
-Here are some ideas to get you started:
+## Workshop resources
+[GitHub workshop materials](https://github.com/GavinGME/cc-github-workshop-resources): starter templates and student activities.
+[Workshop example repository](https://github.com/GavinGME/cc-github-example): commits, documentation, and a synthetic log-analysis example.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Next step
+Collect feedback from the workshop and improve the learning materials.
+
+<!-- Before using this draft, add only personal interests and skills that accurately describe you. Keep existing profile content you want to retain. -->
